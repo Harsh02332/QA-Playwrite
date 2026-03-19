@@ -24,4 +24,4 @@ def test_search_functionality(page: Page):
     
     # Verify that the URL changed to the intro page
     expect(page).to_have_url(re.compile(".*intro"))
-    print("URL verified successfully!")
+    print("URL verified successfully!") 

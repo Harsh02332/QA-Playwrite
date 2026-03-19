@@ -20,3 +20,6 @@ values.insert(4, "No way")
 print(values[4])
 values.append(33)
 print(values)
+del values[0]
+print(values)
+# tuple
