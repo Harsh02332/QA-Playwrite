@@ -7,7 +7,7 @@ print(a)
 
 string = "Hey There!"
 print(string)
-b,c,d = 3,5.2, "Wassup!"
+b,c,d = 3,5.2, "Wakeup!"
 print("Value is",b,"and second is",c,"and last",d)
 
 #list / array
@@ -22,4 +22,4 @@ values.append(33)
 print(values)
 del values[0]
 print(values)
-# tuple
+# tuple cant be change and uses round bracket 
